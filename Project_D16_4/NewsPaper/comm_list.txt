@@ -1,6 +1,6 @@
-проверка работоспособности Celery
-celery -A NewsPaper worker -l INFO --pool=solo
+Проверка работоспособности Celery
 
+celery -A NewsPaper worker -l INFO --pool=solo
 Запуск периодических задач на Windows (разные окна терминала):
 celery -A NewsPaper worker -l INFO --pool=solo
 celery -A NewsPaper beat -l INFO

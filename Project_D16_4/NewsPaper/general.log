@@ -1,0 +1,6 @@
+2023-08-17 11:20:23,854 INFO autoreload Watching for file changes with StatReloader
+2023-08-17 11:25:10,262 WARNING log Forbidden (CSRF token missing.): /news/create/
+2023-08-17 11:33:21,192 INFO autoreload C:\Users\Администратор\PycharmProjects\Project_D10_5_2\NewsPaper\news\views.py changed, reloading.
+2023-08-17 11:33:22,365 INFO autoreload Watching for file changes with StatReloader
+2023-08-17 11:34:12,825 INFO autoreload C:\Users\Администратор\PycharmProjects\Project_D10_5_2\NewsPaper\news\views.py changed, reloading.
+2023-08-17 11:34:13,852 INFO autoreload Watching for file changes with StatReloader
